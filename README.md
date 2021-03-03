@@ -1,2 +1,3 @@
 # kc
-KC repo
+KC repo  
+This is my first commit
